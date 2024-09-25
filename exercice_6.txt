@@ -1,0 +1,11 @@
+touch marvel/black_widow.txt
+nano black_widox.txt
+Natasha Romanox
+
+touch dc/wonder_woman.txt
+nano wonder_woman.txt
+Diana Prince
+
+
+echo "Natacha Romanov" > marvel/black_widow.txt
+
